@@ -1,0 +1,6 @@
+Flask
+tensorflow
+numpy
+Pillow
+google-cloud-storage
+werkzeug
